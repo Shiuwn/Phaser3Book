@@ -66,9 +66,12 @@ npm install
 ```batch
 npm run start
 ```
-
-
-
-
-
-
+看到像“Built in 3.25s”这样的信息后，说明开发服务器已经启动了。
+应该还会有一行信息在刚才那条信息上面：
+> Server running at http://localhost:8000
+打开一个浏览器窗口，访问`http://localhost:8000`
+你应该会看到一个黑色的窗口,里面有`Phaser`的logo在跳动。
+## 代码编辑和测试
+这本书假设你正在用`VScode` 作为代码编辑器，同时用`Chrome`这种现代浏览器。
+如果你并不是其他浏览器像`Atom`、`Brackets` 或`Webstorm`的拥趸，我们非常推荐下载并安装[VScode](如果你并不是其他浏览器像`Atom`、`Brackets` 或`Webstorm`的拥趸，我们非常推荐下载并安装[VScode](https://code.visualstudio.com/)
+现在用代码编辑器打开我们的项目，我们会在下一个章节开始写代码。
