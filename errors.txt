@@ -1,0 +1,3 @@
+page 9 main.js
+page 10 setOrigin
+page 12 TileSprite setOrigin
